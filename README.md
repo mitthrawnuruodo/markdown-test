@@ -60,7 +60,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)`
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image height:100px](https://myoctocat.com/assets/images/base-octocat.svg)
 
 - George Washington
 * John Adams
