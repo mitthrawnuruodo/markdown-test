@@ -8,7 +8,5 @@
 ###### This is a h6
 
 This is a paragraph
-
 This is anoter paragraph
-
 And yet another paragraph
