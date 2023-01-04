@@ -24,3 +24,32 @@ This is plain text.
 ***All this text is important***  
 This is a an example of <sub>subscript text</sub>  
 This is a an example of <sup>superscript text</sup>  
+
+Text that is not a quote
+
+> Text that is a quote
+
+Use `git status` to list all new or modified files that haven't yet been committed.
+
+Some basic Git commands are:
+
+```
+git status
+git add
+git commit
+```
+
+Put this in HTML:
+```html
+<p>This is a HTML tag</p>
+```
+
+Then add CSS to add color:
+```css
+.p { color: green; }
+```
+
+And log out to Console using JavaScript:
+```js
+console.log("Whatever you want");
+```
