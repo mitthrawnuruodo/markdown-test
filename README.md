@@ -54,7 +54,7 @@ And log out to Console using JavaScript:
 console.log("Whatever you want");
 ```
 
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode. Test: `#0969DA` or `rgb(9, 105, 218)`
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
