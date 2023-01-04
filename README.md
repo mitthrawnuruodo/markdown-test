@@ -15,3 +15,12 @@ And yet another paragraph
 
 This paragraph has a linebreak using double spaces  
 before continuing on a new line without a blank line
+
+This is plain text.  
+**This is bold text**  
+*This text is italicized*  
+~~This was mistaken text~~  
+**This text is _extremely_ important**  
+***All this text is important***  
+This is a an example of <sub>subscript text</sub>  
+This is a an example of <sup>superscript text</sup>  
