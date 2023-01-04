@@ -13,5 +13,5 @@ This is anoter paragraph
 
 And yet another paragraph
 
-This paragraph has a linebreak  
-before continuing on a new line
+This paragraph has a linebreak using double spaces  
+before continuing on a new line without a blank line
