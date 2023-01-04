@@ -53,3 +53,19 @@ And log out to Console using JavaScript:
 ```js
 console.log("Whatever you want");
 ```
+
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)`
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+- George Washington
+* John Adams
++ Thomas Jefferson
+
+1. James Madison
+1. James Monroe
+1. John Quincy Adams
