@@ -80,6 +80,8 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 ```
 
+<small>Note: The relative link target doesn't exist and will give a 404 error.</small>
+
 ## Images
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
