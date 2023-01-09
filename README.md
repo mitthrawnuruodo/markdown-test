@@ -1,11 +1,15 @@
 # Markdown Test
 
+## Headers
+
 # This is a h1
 ## This is a h2
 ### This is a h3
 #### This is a h4
 ##### This is a h5
 ###### This is a h6
+
+## Paragraphs
 
 This is a paragraph
 
@@ -15,6 +19,8 @@ And yet another paragraph
 
 This paragraph has a linebreak using double spaces  
 before continuing on a new line without a blank line
+
+## Text styling
 
 This is plain text.  
 **This is bold text**  
@@ -28,6 +34,8 @@ This is a an example of <sup>superscript text</sup>
 Text that is not a quote
 
 > Text that is a quote
+
+## Code
 
 Use `git status` to list all new or modified files that haven't yet been committed.
 
@@ -56,9 +64,15 @@ console.log("Whatever you want");
 
 The background color should be `#ffffff` for light mode and `#0d1117` for dark mode. Test: `#0969DA` or `rgb(9, 105, 218)`
 
+<!-- Note: The color models doesn't seem to work, at least in Safari, Firefox Developer Edition or Chrome for Mac -->
+
+## Links
+
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)`
+
+## Images
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
@@ -74,16 +88,20 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 1. James Monroe
 1. John Quincy Adams
 
-## Nested, ordered list
+## Nested list
 
 1. First list item
    - First nested list item
      - Second nested list item
 2. Second (main) list item
 
+## Task list
+
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+## Footnotes
 
 Here is a simple footnote[^1].
 
