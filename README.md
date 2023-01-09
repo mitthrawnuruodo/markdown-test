@@ -62,14 +62,19 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
+## Unordered list
+
 - George Washington
 * John Adams
 + Thomas Jefferson
+
+## Ordered list
 
 1. James Madison
 1. James Monroe
 1. John Quincy Adams
 
+## Nested, ordered list
 
 1. First list item
    - First nested list item
