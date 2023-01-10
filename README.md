@@ -130,7 +130,7 @@ console.log("Whatever you want");
 
 The background color should be `#ffffff` for light mode and `#0d1117` for dark mode. Test: `#0969DA` or `rgb(9, 105, 218)`
 
-<!-- Note: The color models doesn't seem to work, at least in Safari, Firefox Developer Edition or Chrome for Mac -->
+> The visualization of the color is only supported in issues, pull requests, and discussions.
 
 ## Links
 
