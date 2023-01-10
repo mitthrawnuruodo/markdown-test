@@ -236,6 +236,8 @@ You can also use words, to fit your writing style more closely[^note].
     This footnote also has been made with a different syntax using 4 spaces for new lines.
 ```
 
+## Escape markdown formatting
 
+You can tell GitHub to ignore (or escape) Markdown formatting by using `\` before the Markdown character.
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
